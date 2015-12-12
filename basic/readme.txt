@@ -7,5 +7,5 @@ modual :
 from ... import语句，模块的__name__,制造自己的模块,dir()函数。
 structure:
 列表，元组，字典，序列，引用，字符串
-
+sssssssssssssssssss
 修改git版本
